@@ -5,6 +5,8 @@
 
 這個專案是透過 **Vibecoding**（與 AI 助手對話協作）逐步除錯與優化而誕生的成果。從一開始只能抓取畫面上的少數資料，進化到能自動破解 Google Maps 的延遲載入 (Lazy Loading) 限制，順利匯出破百筆的大型清單！
 
+[![Video Demo](https://img.youtube.com/vi/x9XPcMEtpps/maxresdefault.jpg)](https://youtu.be/x9XPcMEtpps)
+
 ## 💡 解決了什麼痛點？
 
 當我們在 Google Maps 儲存了幾十個甚至上百個地點（例如：旅遊行程、美食清單）時，清單的資訊往往很雜亂。如果想要有系統地分類整理，手動一個一個點開查看地點資訊、複製貼上，不僅眼睛痠，還超級耗時。
